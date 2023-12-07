@@ -5,7 +5,9 @@ This project is Java Spring Boot based project which uses [Open Weather Map](htt
 
 ### Endpoints 
 This project contains two different endpoints which are available. Both of these endpoints are GET endpoints. They are:
+
 http://localhost:5052/api/full-weather
+
 http://localhost:5052/api/brief-weather
 
 ### Future Work
