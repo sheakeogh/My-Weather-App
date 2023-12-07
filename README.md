@@ -11,4 +11,4 @@ http://localhost:5052/api/full-weather
 http://localhost:5052/api/brief-weather
 
 ### Future Work
-There is still some work to do in this project. I would like to implement some caching so that each time the endpoint is called we do not have to call the thrid party API. Potentially, if the calls are withing 15 minutes of each other we could use the last cached data. I also will need to add some testing and some Swagger documentation.
+There is still some work to do in this project. I would like to implement some caching so that each time the endpoint is called we do not have to call the thrid party API. Potentially, if the calls are withing 15 minutes of each other we could use the last cached data. I also will need to add some more testing for better coverage and some Swagger documentation.
